@@ -1,0 +1,2 @@
+sls create --template aws-nodejs --name first-serverless-app
+sls deploy
